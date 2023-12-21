@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d882e8b809577c64eadcac0f171305ff, type: 3}
+  m_Name: WingData
+  m_EditorClassIdentifier: 
+  frequencyMin: 0.1
+  frequencyMax: 15
+  frequency: 2.7022502
+  amplitudeMin: 0.1
+  amplitudeMax: 5
+  amplitude: 4.1178946
+  freqModFreq: 0.0785
+  freqModAmpRange: 1
+  freqModAmpChangeSpeed: 0.0499
+  freqModAmp: 0.1796614
+  ampModAmpRange: 1
+  ampModAmpChangeSpeed: 0.1
+  ampModAmp: 0.36004293
+  updated:
+    m_PersistentCalls:
+      m_Calls: []

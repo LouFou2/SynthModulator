@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d882e8b809577c64eadcac0f171305ff, type: 3}
+  m_Name: TailTurnSine
+  m_EditorClassIdentifier: 
+  frequencyMin: 0.1
+  frequencyMax: 0.94
+  frequency: 0.0061294613
+  amplitudeMin: 0.1
+  amplitudeMax: 5
+  amplitude: 4.963585
+  freqModFreq: 0.15
+  freqModAmpRange: 1
+  freqModAmpChangeSpeed: 0.05
+  freqModAmp: 0.014863253
+  ampModAmpRange: 1
+  ampModAmpChangeSpeed: 0.05
+  ampModAmp: 0.014863253
+  rotationFactor: 0
+  updated:
+    m_PersistentCalls:
+      m_Calls: []
